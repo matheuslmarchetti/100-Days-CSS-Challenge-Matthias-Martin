@@ -5,4 +5,4 @@
 
 <p>Below are links to view the projects.</p>
 
-<a href="https://matheuslmarchetti.github.io/100-DAYS-CSS-CHALLENGE/day1" target="_blank" rel="noopener noreferrer">Day #1</a>
+<a href="https://matheuslmarchetti.github.io/100-DAYS-CSS-CHALLENGE/day1/day1.html" target="_blank" rel="noopener noreferrer">Day #1</a>
